@@ -36,7 +36,7 @@ How to Run the Project
 
 Download or clone the repository
 
-git clone https://github.com/your-username/tic-tac-toe.git
+git clone (https://github.com/GayatriKotawar/Javascript-mini-projects.git)
 
 Open the folder.
 
